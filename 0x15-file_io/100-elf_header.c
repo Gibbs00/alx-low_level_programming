@@ -1,6 +1,6 @@
 /*
  * File: 100-elf_header.c
- * Author: Ganiu Idowu
+ * Author: Ganiu idowu
  */
 
 #include <elf.h>

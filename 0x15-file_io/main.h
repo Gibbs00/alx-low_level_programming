@@ -4,7 +4,7 @@
 /*
  * File: main.h
  * Author: Ganiu idowu
- * Desc: Header file containing prototypes for all functions
+ * Desc: Header file contains prototypes for functions
  *       written in the 0x15-file_io directory.
  */
 

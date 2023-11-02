@@ -1,3 +1,8 @@
+/*
+ * File: 1-create_file.c
+ * Author: Ganiu idowu
+ */
+
 #include "main.h"
 
 /**
